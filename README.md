@@ -14,7 +14,7 @@ As the name suggests, this is a console version of sudoku game coded in C++ whic
 To compile and run the Sudoku C++ console version, you'll need the following:
 
 - C++ compiler (e.g., GCC, Clang)
-- - CMake (minimum version 3.1)
+- CMake (minimum version 3.1)
 
 *Or you can simply download and run the `main.exe` file (x64 bit) 😉*
 
