@@ -9,6 +9,13 @@ As the name suggests, this is a console version of sudoku game coded in C++ whic
 - Supports input validation to ensure puzzle rules are followed.
 - Displays the puzzle board with easy-to-read formatting.
   
+## Gameplay ss
+  ![mainMenu](https://github.com/Fayyez/sudoku-cpp-console-version/assets/125592149/bf9e06d2-d228-4f30-9465-f9fad42192ad)
+  ![Gameplay](https://github.com/Fayyez/sudoku-cpp-console-version/assets/125592149/e4949bbd-9a40-403b-83b0-db824f9f99b2)
+![leaderboard](https://github.com/Fayyez/sudoku-cpp-console-version/assets/125592149/f7f5f25e-8df0-426c-944e-555d01e5b483)
+![creditsScreen](https://github.com/Fayyez/sudoku-cpp-console-version/assets/125592149/7e451cce-4c1d-4787-a749-f62db79c6642)
+
+
 ## Prerequisites
 
 To compile and run the Sudoku C++ console version, you'll need the following:
