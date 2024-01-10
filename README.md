@@ -35,28 +35,14 @@ run the following commands on ```cmd``` to play the Sudoku C++ console version *
 ```shell
 git clone https://github.com/Fayyez/sudoku-cpp-console-version.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```shell
-cd sudoku-cpp-console-version
+cd .//pathToDirectory//sudoku-cpp-console-version
 ```
-3.Create a sudoku directory and navigate to it:
+3. Build the project using any C++ compiler of choice.
 
-```shell
-mkdir sudoku && cd sudoku
-```
-
-4.Generate the build files with CMake:
-
-```shell
-cmake ..
-```
-5.Build the project:
-```shell
-cmake --build .
-```
-
-6.Run the Sudoku game:
+4. Run the Sudoku game:
 ```shell
 ./main
 ```
