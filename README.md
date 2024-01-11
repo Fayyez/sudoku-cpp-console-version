@@ -5,9 +5,11 @@ As the name suggests, this is a console version of sudoku game coded in C++ whic
 
 ## Features
 
-- Interactive console interface for playing Sudoku puzzles.
+- Interactive console interface.
 - Supports input validation to ensure puzzle rules are followed.
-- Displays the puzzle board with easy-to-read formatting.
+- Save game in upto 3 slots.
+- Get solution if you get stuck anywhere
+- A leaderboard with top 7 players and their scores of all time
   
 ## Gameplay ss
   ![mainMenu](https://github.com/Fayyez/sudoku-cpp-console-version/assets/125592149/bf9e06d2-d228-4f30-9465-f9fad42192ad)
